@@ -1,0 +1,2 @@
+1 Train and Test Datasets from Anmol Kumar: https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction
+2 Random forest, notebook template, header drawings, and some visualizations from Yashvi Patel:  https://www.kaggle.com/yashvi/vehicle-insurance-eda-and-boosting-models
