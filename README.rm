@@ -4,11 +4,16 @@ Texas A&M University
 10/2/2020
 
 This project was done on kaggle.com
-Dataset:  https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction
+
+Dataset:  
+https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction
+
 Notebooks:
 https://www.kaggle.com/tony1584/vehicle-insurance-dense-neural-network-tensorflow
 https://www.kaggle.com/tony1584/insurance-tensorflow-dnn-analysis
 
+Tableau visualizations:
+https://public.tableau.com/profile/anton.seidl#!/vizhome/KaggleInsuranceProject/Age
 
 An insurance company reached out to several hundred thousand health insurance customers to offer them vehicle insurance, and their responses were documented along with their age, gender, and other traits.  The purpose of this project is to find patterns in customer traits that will allow the insurance company to target customers more efficiently with offers of vehicle insurance.
 
